@@ -31,3 +31,8 @@ Traceback (most recent call last):
     etiketli.append(f"[{k}]\n"+f.read())
     ^^^^^^^^
 NameError: name 'etiketli' is not defined
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bilgi_motoru/motor.py", line 18, in <module>
+    etiketli.append(f"[{k}]\n"+f.read())
+    ^^^^^^^^
+NameError: name 'etiketli' is not defined
