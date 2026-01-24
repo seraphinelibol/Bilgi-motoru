@@ -1,2 +1,8 @@
 Çıktı oluşturuldu: cikti/2026-01-24T16:30:11.801425.txt
 Akıllı çıktı üretildi: cikti/2026-01-24T16:33:14.363326.txt
+Akıllı çıktı üretildi: cikti/2026-01-24T17:24:09.325602.txt
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/bilgi_motoru/motor.py", line 18, in <module>
+    etiketli.append(f"[{k}]\n"+f.read())
+    ^^^^^^^^
+NameError: name 'etiketli' is not defined
