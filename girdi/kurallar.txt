@@ -1,3 +1,0 @@
-+ kısa özet üret
-+ önemli noktaları başlıklandır
-- gereksiz tekrarları çıkar
