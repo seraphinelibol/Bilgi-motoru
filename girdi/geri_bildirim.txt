@@ -1,2 +1,0 @@
-+ kısa metinler daha iyi
-- tekrarları azalt
